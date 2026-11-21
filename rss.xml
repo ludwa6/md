@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:source="http://source.scripting.com/">
+	<channel>
+		<title>Walt Ludwick</title>
+		<link>https://ludwa6.github.io/md/index.md</link>
+		<description>Notes from Walt Ludwick, written in Obsidian, published as Markdown.</description>
+		<lastBuildDate>Sat, 21 Nov 2026 08:53:29 GMT</lastBuildDate>
+		<generator>md-publish</generator>
+		<docs>https://cyber.harvard.edu/rss/rss.html</docs>
+		</channel>
+	</rss>
